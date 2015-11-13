@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "smallroom55store1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "smallroom55"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "P@ssw0rd"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "smallroom55store1"
     }
   }
 }
