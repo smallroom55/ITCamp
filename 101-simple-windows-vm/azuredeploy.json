@@ -6,6 +6,7 @@
       "type": "string",
       "metadata": {
         "description": "Unique DNScdd Name for the Storage Account where the Virtual Machine's disks will be placed."
+      
       }
     },
     "adminUsername": {
